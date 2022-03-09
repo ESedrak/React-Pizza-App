@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Pizza-App/static/css/main.5fa6e3b7.css",
+    "main.js": "/React-Pizza-App/static/js/main.6c998a0d.js",
+    "static/media/1.png": "/React-Pizza-App/static/media/1.68ca840875cc16ab49ff.png",
+    "static/media/4.png": "/React-Pizza-App/static/media/4.ee2d6439a42daa5ae16f.png",
+    "static/media/6.png": "/React-Pizza-App/static/media/6.1e7fe3f5d0ccce47177f.png",
+    "static/media/5.png": "/React-Pizza-App/static/media/5.d26d1557c28bcaea124e.png",
+    "static/media/7.png": "/React-Pizza-App/static/media/7.c06f50c6b69ef0490ca1.png",
+    "static/media/3.png": "/React-Pizza-App/static/media/3.373accaf59250882b2fd.png",
+    "static/media/2.png": "/React-Pizza-App/static/media/2.80488515c7e9d0bac8b5.png",
+    "static/media/logo.png": "/React-Pizza-App/static/media/logo.d883b30e3aa53c13cffb.png",
+    "index.html": "/React-Pizza-App/index.html",
+    "main.5fa6e3b7.css.map": "/React-Pizza-App/static/css/main.5fa6e3b7.css.map",
+    "main.6c998a0d.js.map": "/React-Pizza-App/static/js/main.6c998a0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fa6e3b7.css",
+    "static/js/main.6c998a0d.js"
+  ]
+}
