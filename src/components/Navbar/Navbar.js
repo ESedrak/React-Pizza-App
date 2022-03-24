@@ -22,10 +22,10 @@ function Navbar(props) {
       <div className='leftSide' id={openLinks ? "open" : "close"} > {/* Use ternary operator, if openLinks is true , id will be "open", otherwise "close"*/}
         <img src={logo} style={{ borderRadius: "50%" }} />
         <div className="hiddenLinks">
-          <Link to="/"> Home </Link>
-          <Link to="/menu"> Menu </Link>
-          <Link to="/about"> About </Link>
-          <Link to="/contact"> Contact </Link>
+          <Link to="/Home"> Home </Link>
+          <Link to="/Menu"> Menu </Link>
+          <Link to="/About"> About </Link>
+          <Link to="/Contact"> Contact </Link>
         </div>
       </div>
       <div className='rightSide'>
