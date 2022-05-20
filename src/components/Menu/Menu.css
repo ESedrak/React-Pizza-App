@@ -38,7 +38,7 @@
   box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
   transition: 0.3s ease-in;
   cursor: pointer;
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 .menuItem div {
